@@ -12,7 +12,9 @@ Feel free to use our MiniAI Face Recognition iOS SDK.
 >
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 
-https://github.com/MiniAiLive/MiniAI-Face-Recognition-AndroidSDK/assets/153516004/85a939ed-a607-478b-b48a-80b8582c37b6
+
+https://github.com/MiniAiLive/MiniAI-Face-Recognition-iOS-SDK/assets/153516004/4614f65b-733b-4253-ae5a-6478ceb8a96a
+
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
