@@ -1,6 +1,6 @@
 <div align="center">
    <h1> MiniAiLive Face Recognition iOS SDK </h1>
-   <img src=https://www.miniai.live/wp-content/uploads/2023/03/logo_name-1-768x426.png alt="MiniAiLive Logo"
+   <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
    width="300">
 </div>
 
@@ -19,7 +19,7 @@ https://github.com/MiniAiLive/MiniAI-Face-Recognition-iOS-SDK/assets/153516004/4
 Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License.
 
 ## Try Online Demo
-Please visit our Face API Web Demo here. https://minivision.live
+Please visit our Face API Web Demo here. https://demo.miniai.live
 
 ## Related Product
 No | Project | Feature
