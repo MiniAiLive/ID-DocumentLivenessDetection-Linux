@@ -46,7 +46,7 @@ Try it out today!
    $ sudo dpkg -i --force-overwrite MiniAiLive-IDLiveness-LinuxServer.deb
    ```
 <div align="center">
-   <img src=https://github.com/MiniAiLive/ID-DocumentRecognition-Linux/assets/127708602/5547b656-e5ad-463b-a1b8-4107cdaed556 alt="MiniAiLive Installer">
+   <img src=https://github.com/user-attachments/assets/0854d9a4-20ae-4dfd-a0bf-49f2469d7258 alt="MiniAiLive Installer">
 </div>
    You can refer our Documentation here. https://docs.miniai.live
 
@@ -58,15 +58,15 @@ Try it out today!
    $ sudo ./MiRequest request /home/ubuntu/Download/trial_key.miq
    ```
 <div align="center">
-   <img src=https://github.com/MiniAiLive/ID-DocumentRecognition-Linux/assets/127708602/7001cbe2-d246-40bf-acab-12786cc2d2e0 alt="MiniAiLive Installer">
+   <img src=https://github.com/user-attachments/assets/326a1cef-98ad-49ef-83b4-caaafa26e05f alt="MiniAiLive Installer">
 </div>
    Then you can see the license request file on your directory, and send it to us via email or WhatsApp. We will send the license based on your Unique Request file, then you can upload the license file to allow to use. Refer the below images.
-   
+
    ```sh
    $ sudo ./MiRequest update /home/ubuntu/Download/trial_30.mis
    ```
 <div align="center">
-   <img src=https://github.com/MiniAiLive/ID-DocumentRecognition-Linux/assets/127708602/e600fd00-895d-48d8-9228-396cd2fc6d98 alt="MiniAiLive Installer">
+   <img src=https://github.com/user-attachments/assets/db91f12a-3b41-4975-bd55-78584732304a alt="MiniAiLive Installer">
 </div>
 
 4. **Verify Installation:**
@@ -75,9 +75,9 @@ Try it out today!
    ```sh
    $ systemctl list-units --state running
    ```
-   If you can see 'Mini-drsvc.service', 'Mini-idsvc.service', the server has been installed successfully. Refer the below image.
+   If you can see 'Mini-idliveness-svc.service', the server has been installed successfully. Refer the below image.
 <div align="center">
-   <img src=https://github.com/MiniAiLive/ID-DocumentRecognition-Linux/assets/127708602/18edc1d1-ddf4-48a7-86c8-eb48e01b4317 alt="MiniAiLive Installer">
+   <img src=https://github.com/user-attachments/assets/dfaadf90-af67-440c-8988-26819d126864 alt="MiniAiLive Installer">
 </div>
 
 ## API Details
