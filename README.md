@@ -63,7 +63,7 @@ Try it out today!
    Then you can see the license request file on your directory, and send it to us via email or WhatsApp. We will send the license based on your Unique Request file, then you can upload the license file to allow to use. Refer the below images.
 
    ```sh
-   $ sudo ./MiRequest update /home/ubuntu/Download/trial_30.mis
+   $ sudo ./MiRequest update /home/ubuntu/Download/trial_key.mis
    ```
 <div align="center">
    <img src=https://github.com/user-attachments/assets/db91f12a-3b41-4975-bd55-78584732304a alt="MiniAiLive Installer">
