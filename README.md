@@ -21,7 +21,7 @@ Try it out today!
 - [Gradio Demo](#gradio-demo)
 - [Python Test API Example](#python-test-api-example)
 
-## IDSDK Installation Guide
+## ID-LivenessSDK Installation Guide
 
 ### Prerequisites
 
@@ -80,7 +80,7 @@ Try it out today!
    <img src=https://github.com/user-attachments/assets/dfaadf90-af67-440c-8988-26819d126864 alt="MiniAiLive Installer">
 </div>
 
-## IDSDK API Details
+## ID-LivenessSDK API Details
 
 ### Endpoint
 
