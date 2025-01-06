@@ -32,7 +32,7 @@ Try it out today!
 
 ### Installation Steps
 
-1. **Download the ID Document Recognition Linux Server Installer:**
+1. **Download the ID Document LivenessDetection Linux Server Installer:**
 
    Download the Server installer for your operating system from the following link:
    
